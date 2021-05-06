@@ -1,0 +1,2 @@
+Prefix plugins/Unclassified/example
+Plugin Unclassified inputfile taxa.csv outputfile taxa.unclassified.txt
